@@ -1,4 +1,4 @@
 # python
 
-#Python code for Drawing a Flower using 
+#Python code for Drawing a Flower!
 #Udacity mini Project
